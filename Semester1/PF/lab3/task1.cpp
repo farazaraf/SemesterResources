@@ -7,7 +7,7 @@ int main()
     cin>>usr_name;
     cout<<"Enter Password: "<<endl;
     cin>>password;
-    if (usr_name=="Faraz" && password == 200901045)
+    if (usr_name=="Test" && password == 1001)
         cout<<"Login Successful! \n";
     else
         cout<<"Login failed! Please recheck your credentials. \n";
